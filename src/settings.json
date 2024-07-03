@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience the Perfect Balance of Sweetness and Nutrition with Furit's Premium Bananas.",
+        "title": "Discover the Golden Goodness"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Perfect Balance of Sweetness and Nutrition with Furit's Premium Bananas.",
+        "title": "Discover the Golden Goodness"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience the Perfect Balance of Sweetness and Nutrition with Furit's Premium Bananas.",
+        "title": "Discover the Golden Goodness"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience the Perfect Balance of Sweetness and Nutrition with Furit's Premium Bananas.",
+        "title": "Discover the Golden Goodness"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Perfect Balance of Sweetness and Nutrition with Furit's Premium Bananas.",
+        "title": "Discover the Golden Goodness"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience the Perfect Balance of Sweetness and Nutrition with Furit's Premium Bananas.",
+        "title": "Discover the Golden Goodness"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience the Perfect Balance of Sweetness and Nutrition with Furit's Premium Bananas.",
+        "title": "Discover the Golden Goodness"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Perfect Balance of Sweetness and Nutrition with Furit's Premium Bananas.",
+        "title": "Discover the Golden Goodness"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Discover the Golden Goodness",
+  "subtitle": "Experience the Perfect Balance of Sweetness and Nutrition with Furit's Premium Bananas."
+}
